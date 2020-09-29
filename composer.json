@@ -51,7 +51,7 @@
         "illuminate/console": "^8.0.0",
         "illuminate/database": "^8.0.0",
         "illuminate/support": "^8.0.0",
-        "jackpopp/geodistance": "^1.2.0",
+        "jackpopp/geodistance": "dev-master",
         "rinvex/countries": "dev-master",
         "rinvex/laravel-support": "dev-master"
     },
